@@ -1,4 +1,4 @@
-package com.fitnesstracker
+package fitnesstracker.com
 
 data class Workout(
     val type: String,
